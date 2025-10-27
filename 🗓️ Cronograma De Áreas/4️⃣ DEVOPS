@@ -1,0 +1,19 @@
+🚀 Objetivo: unir desenvolvimento e operações — automatizando e otimizando processos.
+
+Recomendo começar apenas depois que entender bem desenvolvimento e lógica.
+
+Aprenda:
+
+Conceitos básicos: integração contínua (CI), entrega contínua (CD).
+
+Git e GitHub Actions: automação de builds e testes.
+
+Linux e terminal (quando possível): comandos e scripts.
+
+Containers (conceito de Docker): entenda o que é e por que é útil.
+
+🗃️ Mini projetos sugeridos:
+
+Criar um pequeno site e configurar automação de deploy (quando tiver PC).
+
+Estudar pipelines (mesmo que apenas em teoria, por enquanto).
