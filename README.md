@@ -7,6 +7,6 @@ Engenharia de Software.
 UX/UI Design.
 DevOps.
 
-## 🚀 Meu objetivo é construir uma base sólida, evoluindo passo a passo, com disciplina e curiosidade.
+# 🚀 Meu objetivo é construir uma base sólida, evoluindo passo a passo, com disciplina e curiosidade.
 
-### “A melhor forma de prever o futuro é construí-lo.” — Alan Kay
+ “A melhor forma de prever o futuro é construí-lo.” — Alan Kay
