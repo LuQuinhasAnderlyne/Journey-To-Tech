@@ -1,0 +1,38 @@
+  Variavel é um local na memoria que reservamos para armazenar um valor: um nome de um produto, quantidade de horas trabalhadas, hora atual do sistema e etc.
+
+int i= Variavel do tipo inteiro / Nome i / podemos armazenar numeros inteiros nela, fazendo referencia a ela em outras partes do codigo. Ex: i = 10; i = 20; i = 30; ou int i = 10;
+ 
+1) float f = Variavel do tipo float / Nome f / podemos armazenar numeros decimais nela, fazendo referencia a ela em outras partes do codigo. Ex: f = 10.5; f = 20
+
+2) char c = Variavel do tipo char / Nome c / podemos armazenar caracteres nela, fazendo referencia a ela em outras partes do codigo. Ex: c = 'a'; c = 'b'; c = 'c';
+
+3) bool b = Variavel do tipo bool / Nome b / podemos armazenar valores booleanos nela, fazendo referencia a ela em outras partes do codigo. Ex: b = true; b = false;
+
+4) string s = Variavel do tipo string / Nome s / podemos armazenar strings nela, fazendo referencia a ela em outras partes do codigo. Ex: s = "ola"; s = "mundo";
+
+5) void v = Variavel do tipo void / Nome v / podemos armazenar valores void nela, fazendo referencia a ela em outras partes do codigo. Ex: v = void; v = void;
+
+  Se nao inicializarmos a variavel, ela vai armazenar um valor aleatorio, pois nao foi atribuido nenhum valor a ela.
+
+Ex:  
+    int i; = variavel vai estar com valor aleatorio
+    printf("%d" , i); = pedir valor da variavel
+    resultado: aleatorio.
+
+  mas agora se inicializarmos a variavel depois de atribuir um valor a ela, ela vai armazenar o valor que foi atribuido a ela.
+
+Ex:  
+    int a = 10; = variavel sera igual a 10
+    printf("%d" , a); = pedir valor da variavel
+    resultado: 10.
+
+Caracteristicas de uma variavel:
+
+  1) toda variavel possui um nome.
+  2) toda variavel possui um tipo.
+  3) toda variavel possui um tamanho.
+  4) toda variavel possui um valor.
+
+  a) o armazenamento de uma variavel é temporario, ou seja, enquanto o programa estiver rodando, a variavel vai armazenar o valor que foi atribuido a ela, mas quando o programa for fechado sera removido.
+  b) quando um programa e fechado ou pc e desligado, oque estava armazenado na memoria RAM e perdido.
+  c) toda vez que atribuimos um valor a uma variavel, estamos sobrescrevendo o valor que estava armazenado nela, e nao podemos mais acessar o valor antigo.

@@ -1,0 +1,27 @@
+include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+ 
+// Calculadora 1.0
+
+      int num1, num2, soma, subtracao, multi, div;
+
+      printf("Calculadora 1.0!\n\nDigite 2 numeros e veja os resultados nas operações:\n\n");
+      scanf("%i %i" , &num1, &num2);
+      
+      soma = num1 + num2;
+      subtracao = num1 - num2;
+      multi = num1 * num2;
+      div = num1 / num2;
+    
+      printf( " A soma de %i e %i é: %i\n\n", num1, num2, soma );
+      printf( " A subtração de %i e %i é: %i\n\n", num1, num2, subtracao );
+      printf( " O produto de %i e %i é: %i\n\n", num1, num2, multi );
+      printf( " A divisão de %i e %i é: %i\n\n", num1, num2, div );
+
+    
+
+    return 0;
+}

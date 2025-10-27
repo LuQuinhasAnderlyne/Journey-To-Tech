@@ -1,0 +1,43 @@
+Tipos de variaveis (5):
+    
+    1) Tipo char: onde podemos armazernar caracteres.
+    Tamanho: 1 byte ou seja, 8 bits.
+    
+    2) Tipo int: vamos armazenar numeros positivos e negativos, onde variam de 32mil negativos a 32mil positivos.
+    Tamanho: 2 Bytes - conseguindo armazenar um numero de 32768 negativo ate 32767 positivo.
+    
+    3) Tipo float: onde pode se armazenar numeros com ponto flutuante, ou seja: R$10,50, 1.10, 1.50, numeros que contem casa decimais.
+    Tamanho: 4 Bytes conseguindo armazernar numeros com ate sete digitos de precisao.
+    
+    4) Tipo void - vazio: ele é um tipo sem tipo.
+    Tamanho: nao ocupa.
+    
+    5) Tipo double: é um ponto flutuante duplo, e com ele temos mais precisao para armazenar grandes numeros com pontos flutuantes, podemos ter um numero com ate 15 casas decimais.
+    Tamanho: 8 Bytes.
+
+ Uso de cada tipo de variável:
+
+    1) Tipo char - armazena apenas um caractere
+    char letra = 'L';
+
+    printf("Tipo char: %c\n", letra); ["%c" mostra um caractere]
+
+    2) Tipo int - armazena números inteiros (positivos e negativos)
+    int idade = 15;
+
+    printf("Tipo int: %d\n", idade); ["%d" mostra um número inteiro]
+
+    3) Tipo float - armazena números decimais com precisão de até ~7 dígitos
+    float preco = 10.50;
+
+    printf("Tipo float: %.2f\n", preco); ["%.2f" mostra 2 casas decimais]
+
+    4) Tipo void - usado quando não há retorno ou parâmetro (ex: função)
+    
+    void mensagem(); // declaração da função
+    mensagem(); // chamada da função
+
+    5) Tipo double - números decimais com precisão dupla (até ~15 casas)
+    double distancia = 12345.678901234567;
+
+    printf("Tipo double: %.15lf\n", distancia); ["%.15lf" mostra 15 casas decimais]

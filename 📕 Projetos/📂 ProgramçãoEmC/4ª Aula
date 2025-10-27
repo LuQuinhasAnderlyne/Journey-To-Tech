@@ -1,0 +1,25 @@
+ Uma variavel possui uma estrutura de declaracao, e precisamos seguir esta estrutura para declarar ela:
+
+estrutura:
+  <tipo> <nome> = <valor>;
+  ou seja:
+  int num = 10;
+
+  para declararmos mais de uma variavel podemos utilizar um atalho, colocando virgula e o nome da variavel na mesma linha:
+  
+ Ex: int num, num2 = 10; 
+     int hor = 40, hor2 = 10;
+  
+alem de ser mais rapido, fica mais elegante e deixa o codigo mais facil de ler.
+
+Quando uma variavel possui um nome composto, para diferenciarmos o primeiro nome do segundo, colocamos o segundo nome começando em maiusculo, e o primeiro nome em minusculo:
+
+  Ex: double numeroVerificador;
+ 
+  Obs: podemos utilizar numeros no nome da variavel, mais nao podemos iniciar o nome da variavel com um numero, por exemplo: int 1num; = errado, int num1; = correto.
+
+  Outra regra e que o nome da nossa variavel nao pode conter espaco, por exemplo:
+
+int num eros; pois o compilador vai achar que esquecemos de colocar ou uma virgula ou ponto e virgula, e ele bai gerar um erro. 
+
+Para isso utilizamos o underline (_) nessa situcao, dividindo o nome da variavel em dois, por exemplo: int num_eros;

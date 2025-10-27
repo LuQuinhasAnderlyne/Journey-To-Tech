@@ -1,0 +1,11 @@
+
+    1) Instruções/função: Ex: printf("Hello Wolrd!\n"); Obs: sempre termina com ponte e virgula. Tudo que estiver escrito seguido de 2 parenteses é uma função.
+    
+    2) Endentação: é a forma como organizamos nosso codigo. Bom para trabalhar em equipe seguindo um padrão. Sempre mantenha o codigo organizado.
+    
+    3) Comentàrios C: ( /* comentarios */ ) ele nao é interpretado pelo compilador. Ele é usado para explicar o codigo, ou desativar um codigo momentaneamente.
+
+    2ª forma de fazer comentario:
+    Comentario de uma linha: //
+
+Ex: //comentario...

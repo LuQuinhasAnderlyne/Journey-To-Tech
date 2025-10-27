@@ -1,0 +1,20 @@
+#include <stdio.h>
+#include <stdlib.h> // Nova biblioteca.
+
+int main() {
+
+  int num1 = 10, num2 = 25;
+  int soma = num1 + num2;
+  printf("O resultado da adição é: %i\n", soma);
+
+  int subtracao = num1 - num2;
+  printf("O resultado da subtração é: %i\n", subtracao);
+
+  int multiplicacao = num1 * num2;
+  printf("O resultado da multiplicação é: %i\n", multiplicacao);
+
+  int divisao = num2 / 5;
+  printf("O resultado da divisão é: %i\n", divisao);
+
+  return 0;
+}
