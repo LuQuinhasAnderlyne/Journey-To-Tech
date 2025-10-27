@@ -1,4 +1,4 @@
-🚀 ORDEM GERAL DE APRENDIZADO
+# 🚀 ORDEM GERAL DE APRENDIZADO
 
 Fundamentos de Programação e Lógica (com C ou Python)
 
@@ -10,9 +10,9 @@ Exploração de Áreas (Análise de Dados, UX/UI, DevOps, etc.)
 
 Essa é a espinha dorsal. Agora vamos destrinchar cada área.
 
-💎 SEQUÊNCIA SUGERIDA (PASSO A PASSO)
+# 💎 SEQUÊNCIA SUGERIDA (PASSO A PASSO)
 
-C e lógica de programação (3–6 meses)
+# C e lógica de programação (3–6 meses)
 
 Matemática e pensamento computacional (paralelo à lógica)
 
@@ -30,7 +30,7 @@ UX/UI → Figma + design de interação
 
 DevOps → automação, GitHub Actions, infraestrutura
 
-📱 E COMO FAZER TUDO ISSO NO IPAD
+# 📱 E COMO FAZER TUDO ISSO NO IPAD
 
 Replit → código em C, HTML, CSS, JS.
 
