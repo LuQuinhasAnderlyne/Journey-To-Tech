@@ -29,15 +29,3 @@ Engenharia de Software → frameworks e arquitetura de software
 UX/UI → Figma + design de interação
 
 DevOps → automação, GitHub Actions, infraestrutura
-
-# 📱 E COMO FAZER TUDO ISSO NO IPAD
-
-Replit → código em C, HTML, CSS, JS.
-
-Google Colab / Juno → Python e análise de dados.
-
-Figma / Canva → design e UX/UI.
-
-Khan Academy / Brilliant → matemática e lógica.
-
-Notion / Apple Notas → anotações e organização.
