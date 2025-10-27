@@ -1,3 +1,11 @@
+🧮 Cronograma De Estudos (FASE Inicial)
+
+Acompanha os dias e as orientações, ao concluir a fase:
+
+Escreva abaixo "Concluído ✅":
+
+[]
+
 🧭 Dicas de progresso
 
 Estude com fones e foco: desligue notificações por 90 minutos.
