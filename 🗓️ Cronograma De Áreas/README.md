@@ -12,7 +12,7 @@ Essa é a espinha dorsal. Agora vamos destrinchar cada área.
 
 # 💎 SEQUÊNCIA SUGERIDA (PASSO A PASSO)
 
-# C e lógica de programação (3–6 meses)
+C e lógica de programação (3–6 meses)
 
 Matemática e pensamento computacional (paralelo à lógica)
 
