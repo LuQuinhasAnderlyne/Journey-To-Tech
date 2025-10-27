@@ -1,4 +1,4 @@
-🧮 Cronograma De Estudos (FASE Inicial)
+# 🧮 Cronograma De Estudos (FASE Inicial)
 
 Tempo total de estudo técnico: 1h30 a 2h por dia (segunda a sexta).
 
@@ -12,7 +12,7 @@ Escreva abaixo "Concluído ✅":
 
 []
 
-🧭 Dicas de progresso
+# 🧭 Dicas de progresso
 
 Estude com fones e foco: desligue notificações por 90 minutos.
 
