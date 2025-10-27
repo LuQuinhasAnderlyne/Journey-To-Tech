@@ -1,6 +1,12 @@
 🧮 Cronograma De Estudos (FASE Inicial)
 
-Acompanha os dias e as orientações, ao concluir a fase:
+Tempo total de estudo técnico: 1h30 a 2h por dia (segunda a sexta).
+
+Fins de semana: tempo livre + projetos leves e criativos.
+
+Meta: construir bases em C, lógica e um pouco de matemática aplicada, preparando o terreno para Python e dados no futuro.
+
+Acompanhe os dias e as orientações, ao concluir a fase:
 
 Escreva abaixo "Concluído ✅":
 
