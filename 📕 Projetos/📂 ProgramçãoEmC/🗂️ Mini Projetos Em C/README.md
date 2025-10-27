@@ -1,1 +1,1 @@
-## 💁 Aqui é guardado mini projetos feitos durantes o curso de Programação em C, e projetos pessoais.
+## 💁 Aqui é guardado mini projetos feitos durante o curso de Programação em C, e projetos pessoais.
