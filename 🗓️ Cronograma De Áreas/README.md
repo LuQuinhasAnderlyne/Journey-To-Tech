@@ -1,4 +1,4 @@
-# 🚀 ORDEM GERAL DE APRENDIZADO
+# 🚀 ORDEM GERAL DE APRENDIZADO:
 
 Fundamentos de Programação e Lógica (com C ou Python)
 
@@ -10,7 +10,7 @@ Exploração de Áreas (Análise de Dados, UX/UI, DevOps, etc.)
 
 Essa é a espinha dorsal. Agora vamos destrinchar cada área.
 
-# 💎 SEQUÊNCIA SUGERIDA (PASSO A PASSO)
+# 💎 SEQUÊNCIA SUGERIDA (PASSO A PASSO):
 
 C e lógica de programação (3–6 meses)
 
@@ -20,7 +20,7 @@ Python (4–6 meses)
 
 HTML, CSS, JavaScript e Git (6 meses)
 
-Escolha uma especialização:
+# 🔖 Escolha uma especialização:
 
 Ciência de Dados → Python avançado + estatística + SQL
 
