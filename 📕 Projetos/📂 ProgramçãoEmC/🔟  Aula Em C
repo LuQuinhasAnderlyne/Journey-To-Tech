@@ -1,0 +1,45 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+
+/* 
+
+Visão geral:
+
+As sequências de escape em C são combinações de caracteres especiais que controlam a formatação da saída, permitindo uma manipulação de texto mais complexa além da exibição simples de caracteres.
+
+Essas sequências, tipicamente consistindo de dois caracteres, foram criadas para facilitar a inclusão de caracteres de formatação específicos dentro de strings, como novas linhas e tabulações.
+
+As principais sequências de escape incluem:
+
+-> \' para aspas simples
+-> \" para aspas duplas
+-> \\ para barras invertidas
+-> \n para novas linhas
+-> \t para tabulação
+-> \a para som de alerta
+-> \b para backspace
+-> \f para avanço de formulário (nova página)
+-> \r para retorno de carro
+-> \0 para indicar o fim de uma string
+-> \? para um ponto de interrogação
+-> \v para tabulação vertical
+
+Por exemplo, usar \n permite que o cursor se mova para a próxima linha ao imprimir texto, enquanto \t insere um espaço de tabulação dentro da saída. Além disso, as sequências de escape permitem a impressão de caracteres especiais, como aspas e barras invertidas, sem causar confusão na saída.
+
+No geral, essas sequências são essenciais para formatação e controle de texto eficazes na programação em C.
+*/
+
+//Exemplo prático abaixo (execute-o em um Compilador C para enteder melhor:
+
+printf("1)Eu sou o \nCode::Block\n\n");
+printf("2)\tEu sou o Code::Block\n\n");
+printf("3)Eu sou o \n\tCode::Block\n\n");
+printf("4)\"Eu sou o Code::Block\"\n\n");
+printf("5)\'Eu sou o Code::Block\'\n\n");
+printf("6)Eu sou o Code::Block\?\n\n");
+
+return 0;
+
+}
