@@ -4,6 +4,7 @@ int main() {
     
     int x = 10, y = 40, z = 310;
     int soma = x + y;
+
     
     printf("Coordenadas:\n");
     printf("X (Longitude) = %d\n" , x);
@@ -13,6 +14,7 @@ int main() {
    return 0; 
 
 }
+
 
 
 
