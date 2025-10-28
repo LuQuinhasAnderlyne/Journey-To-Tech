@@ -8,7 +8,6 @@ int main() {
 Visão geral:
 
 As sequências de escape em C são combinações de caracteres especiais que controlam a formatação da saída, permitindo uma manipulação de texto mais complexa além da exibição simples de caracteres.
-
 Essas sequências, tipicamente consistindo de dois caracteres, foram criadas para facilitar a inclusão de caracteres de formatação específicos dentro de strings, como novas linhas e tabulações.
 
 As principais sequências de escape incluem:
