@@ -10,7 +10,7 @@ Exploração de Áreas (Análise de Dados, UX/UI, DevOps, etc.)
 
 Essa é a espinha dorsal. Agora vamos destrinchar cada área.
 
-# 💎 SEQUÊNCIA SUGERIDA (PASSO A PASSO):
+# 💎 SEQUÊNCIA SUGERIDA:
 
 C e lógica de programação (3–6 meses)
 
