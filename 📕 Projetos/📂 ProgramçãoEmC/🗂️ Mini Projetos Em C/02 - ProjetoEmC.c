@@ -16,7 +16,9 @@ int main() {
     printf("\nNome: %s\nIdade: %d\nAltura: %.2f\n", nome, idade, altura);
     return 0;
 
+    
 }
+
 
 
 
