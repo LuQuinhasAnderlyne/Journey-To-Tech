@@ -29,7 +29,7 @@
   
   Alem desses ainda temos outros tipos:
   
-   %u: auando queremos escrever um numero inteiro sem o sinal, ou seja, imprimir apenas o modulo.
+   %u: auando queremos escrever um numero inteiro sem o signal, ou seja, imprimir apenas o modulo.
    %p: quando precisamos imprimir o endereco de memoria.
    %e ou %E: utilizamos para imprimir numeros com notaçao cientifica.
    %%: para imprimir apenas um sinal de porcentagem.
